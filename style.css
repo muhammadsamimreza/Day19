@@ -1,0 +1,204 @@
+.main {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #cccccc42;
+}
+.navbar {
+  max-width: 1000px;
+  display: flex;
+  background-color: white;
+  border: 2px solid #aaa;
+  margin: 10px auto;
+  font-size: 13px;
+  gap: 10px;
+  padding: 10px;
+  align-items: center;
+}
+.bodycontent {
+  max-width: 1500px;
+  height: 1000px;
+margin: 30px 40px 30px 40px;
+  background-color: #cccccc42;
+  display: grid;
+  grid-template-rows: 750px 750px;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  
+}
+.lefthand{
+  background-color: white;
+}
+.imagebox{
+  
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.left {
+  display: flex;
+  padding: 10px;
+  gap: 15px;
+}
+.imagebox .img1 {
+  
+  border: 2px solid rgba(243, 146, 146, 0.24);
+}
+p{
+  margin-left: 20px;
+  font-size: 10px;
+}
+.homeprinter {
+  width: 350px;
+  height: 340px;
+  border: 2px solid rgba(255, 0, 0, 0.212);
+  padding: 50px 4px;
+}
+
+
+.photo {
+  background-color: white;
+  padding: 10px;
+}
+
+.right {
+  background-color: white;
+}
+.left {
+  background-color: white;
+}
+
+h3 {
+  margin-left: 20px;
+  color: rgba(0, 0, 0, 0.829);
+  font-weight: 600;
+}
+.icon {
+  margin-left: 20px;
+}
+.star {
+  color: green;
+}
+.product {
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.span1 {
+  margin-left: 20px;
+  padding: 10px 26px 10px 5px;
+  background-color: #cccccc46;
+}
+.span2 {
+  padding: 10px 26px 10px 5px;
+  margin-left: 10px;
+  background-color: #cccccc46;
+}
+.regular {
+  margin-top: 25px;
+}
+.special {
+  width: 180px;
+  margin-left: 20px;
+  margin-top: 25px;
+  background-color: #cccccc46;
+  padding: 10px 18px 10px 5px;
+  font-weight: 700;
+}
+.see {
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 8px 5px 8px 5px;
+  border: 2px solid rgba(255, 0, 0, 0.788);
+  color: rgba(255, 0, 0, 0.788);
+  width: 130px;
+  border-radius: 5px;
+}
+.delivery {
+  margin-left: 20px;
+  color: rgb(18, 15, 226);
+  font-weight: 700;
+  font-size: 15px;
+  margin-top: 20px;
+}
+div h2 {
+  margin-left: 20px;
+}
+
+ul {
+  line-height: 25px;
+}
+.input {
+  margin-left: 21px;
+  padding: 8px;
+  width: 100px;
+  text-align: center;
+}
+.cart {
+  background-color: rgb(108, 207, 9);
+  padding: 6px 10px 6px 10px;
+  margin-left: 5px;
+  border-radius: 5px;
+  font-weight: 900;
+  color: white;
+}
+.compare {
+  margin-left: 5px;
+  padding: 6px 10px 6px 10px;
+  font-weight: 900;
+  background-color: #cccccc46;
+}
+.love {
+  margin-left: 5px;
+  padding: 9px;
+  background-color: #cccccc46;
+}
+.fffff {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 13px;
+  gap: 10px;
+}
+.f1 {
+  display: flex;
+  text-align: center;
+  padding: 10px;
+  background-color: #cccccc46;
+}
+.f2 {
+  display: flex;
+  text-align: center;
+  padding: 10px;
+  background-color: #cccccc46;
+}
+.f3 {
+  display: flex;
+  text-align: center;
+  padding: 10px;
+  background-color: #cccccc46;
+}
+.social {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.Share {
+  font-size: 12px;
+}
+.whatsapp {
+  color: #1bd152;
+}
+.envelope {
+  color: rgba(255, 0, 0, 0.685);
+}
+.facebook {
+  color: #316ff6;
+}
+.messenger {
+  color: #a334fa;
+}
+.twitter {
+  color: #1da1f2;
+}
+.print {
+  color: green;
+}
+.text {
+  color: #aaa;
+}
